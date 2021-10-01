@@ -20,5 +20,5 @@ O Web Scraping abaixo retorna automáticamente as informações de uma determina
 
 6) Para executar o robô abra seu Cmd/Power Shell ou Prompt Comando navegue até aonde se encontra o arquivo <i>webscraping.py</i> e então digite: <b> python ./webscraping.py </b>
 
-7) Após o robô abrir o navegador e coletar as informações será criado um arquivo chamado <b> dataBase.csv </b> na qual você poderá abrir no Excel ou Power BI ou qualquer outro leitor de CSV.
+7) Após o robô abrir o navegador e coletar as informações será criado um arquivo chamado <b> dataBase.csv </b> na qual você poderá abrir no Excel ou Power BI ou qualquer outro leitor de CSV. Esse arquivo contem todos os dados.
 
