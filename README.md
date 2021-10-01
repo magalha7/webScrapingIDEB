@@ -9,6 +9,10 @@ O Web Scraping abaixo retorna automáticamente as informações de uma determina
 
 3) Instale o Python em sua máquina. Em caso de dúvidas consulte: https://python.org.br/instalacao-windows/
 
-4) Após instalar o Python abra o seu Cmd/Power Shell em caso de Windows ou Prompt Comando no caso de linux, e execute os comando abaixo no terminal para instalar as bibliotecas necessárias para execução do robô:
-  * 
+4) Após instalar o Python abra o seu Cmd/Power Shell em caso de Windows ou Prompt Comando no caso de linux, e execute os comandos (um por vez) abaixo no terminal para instalar as bibliotecas necessárias para execução do robô:
+  * pip install pandas
+  * pip install lxml
+  * pip install beautifulsoup4
+  * pip install selenium
+  * pip install webdriver-manager
 
